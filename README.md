@@ -21,7 +21,7 @@ To run Writer's Haven, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/username/Writer-s-Haven.git
+git clone https://github.com/themuditjain/Writer-s-Haven.git
 
 2. Navigate to the project directory:
 
